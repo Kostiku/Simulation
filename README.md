@@ -1,6 +1,6 @@
 # Simulation
  This pet project written with C# because Console.Clear() and Console.SetCursorPosition() methods allow
- show simulation map on stable place and show changes of entity position more clearly.
+ to show simulation map on stable place and show changes of entities more clearly.
  Project specification [java-backend-learning-course/Projects/Simulation
 /index.md](https://github.com/zhukovsd/java-backend-learning-course/blob/main/Projects/Simulation/index.md)
 
